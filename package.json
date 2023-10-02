@@ -1,6 +1,7 @@
 {
   "name": "convai-web-sdk",
   "main": "dist/convai-web-client.js",
+  "version": "5.0.1",
   "browser": "dist/convai-web-client.umd.js",
   "types": "dist/typings/convai_client.d.ts",
   "scripts": {
